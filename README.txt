@@ -1,3 +1,19 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/anon/pen/BRxgjz.
+ Here is a simple feed project
 
- Here is an animated progress bar using CSS transitions and jQuery animation.
+
+
+================================================================================
+ 
+Steps to get started
+
+================================================================================
+
+
+
+1. git clone project
+
+2. npm install
+
+3. bower install
+
+4. gulp serve
